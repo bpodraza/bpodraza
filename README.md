@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bpodraza
+- 👋 Hi, I’m Ben Podraza.
 - 👀 I’m interested in artificial intelligence, cloud applications and gaming
 - 🌱 I’m currently working through a MS in CS from GA Tech
 - 💞️ I’m looking to collaborate on AI applications and game development
